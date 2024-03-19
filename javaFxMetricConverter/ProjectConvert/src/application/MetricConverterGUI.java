@@ -59,7 +59,6 @@ public class MetricConverterGUI extends Application {
 
     private boolean isValidInput(String input) {
         // Validate input format
-        // For simplicity, assume all inputs are valid in this example
         return true;
     }
 
